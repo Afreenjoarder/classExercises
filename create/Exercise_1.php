@@ -8,4 +8,3 @@ echo $newfunc(2, M_E) . "\n";
 // New anonymous function: lambda_1
 // ln(2) + ln(2.718281828459) = 1.6931471805599
 ?>
-git status
