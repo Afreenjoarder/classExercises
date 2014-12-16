@@ -22,7 +22,6 @@ $records = array(
         'last_name' => 'Doe',
     )
 );
-
 $first_names = array_column($records, 'first_name');
 print_r($first_names);
 ?>
